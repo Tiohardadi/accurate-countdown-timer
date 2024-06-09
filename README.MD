@@ -32,7 +32,7 @@ const timer2 = new CountdownTimer(30, null, () => {
   console.log('Countdown finished');
 });
 timer2.start();
-
+```
 
 ## API
 
